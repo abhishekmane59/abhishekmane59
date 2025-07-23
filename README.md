@@ -7,8 +7,6 @@
 
 
 
-
-- 🔭 I’m a **Freelancer web developer**
 - 🔭 I’m a **Software Developer**
 
 - 🌱 I’m currently learning **Python Full Stack**
